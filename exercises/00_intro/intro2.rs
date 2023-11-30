@@ -7,6 +7,6 @@
 
 
 fn main() {
-    println!("Hello there! Hi")
+    println!("Hello there! Another message")
 
 }
